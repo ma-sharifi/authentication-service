@@ -12,7 +12,7 @@
 	<artifactId>authentication-service</artifactId>
 	<version>chapter12</version>
 	<name>Authentication Service</name>
-	<description>OAuth2 Authentication Service</description>
+	<description>OAuth2 Authentication Service keycloak</description>
 
 	<properties>
 		<java.version>11</java.version>
